@@ -8,12 +8,12 @@ body {
   background: #555;
 }
 
-.LogoHeader {
+.logoHeader {
   margin: 0 18px;
   margin-top: 18px;
 }
 
-.Rodape {
+.rodape {
   position: absolute;
   bottom: 0;
   width: 100%;
@@ -23,4 +23,13 @@ body {
   background-color: #262431;
   font-weight: bold;
   text-align: center;
+}
+
+.rodape p {
+  margin-top: 13px;
+}
+
+.rodape a {
+  text-decoration: none;
+  color: white;
 }
